@@ -1,0 +1,47 @@
+
+Feature selection, 3 techniques:
+		- univariate selection
+		- feature importance
+		- correlation matrix w/ heatmap
+
+Filter method
+	1) set of all features
+	2) Select the best Subset 3 techniques (some important features):
+		- chi square
+		- anova test
+		- correlation coefficient
+	3) ML Algorithm
+	4) Peformance
+	
+Wrapper Method
+	1) forward selection
+	2) backward elimination
+		- chi square to calculate value of feature
+			- p <= 0.05 is not valuable
+	3) recursive feature elimination
+	
+Embedded method
+
+https://www.youtube.com/watch?v=EqLBAmtKMnQ&t=617s
+
+how to choose algorithm:
+	visualization of data (seaborn, pairplot)
+	
+https://www.youtube.com/watch?v=38SUUaMX5Rg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
